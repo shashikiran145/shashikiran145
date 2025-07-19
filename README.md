@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20World!&fontSize=70&fontAlignY=50&desc=Welcome%20to%20my%20hub&descAlignY=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&fontAlignY=50&desc=Welcome%20to%20my%20hub&descAlignY=90)
 
 # Passionate about mathematics and coding | Always learning
 
