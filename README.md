@@ -5,8 +5,14 @@
 
 Hi, I'm **Shashi Kiran**, I like building things that connect hardware and software.
 
+
+
 ##  Tech Stack
-- **Languages:** Python, C, C++, MATLAB
+- **Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
 - **Interests:** Machine Learning, Embedded Systems, Automotive electronics, Networks
 <!--- **Tools & Platforms:** Arduino, TensorFlow, PyTorch, Gymnasium, Git, Linux, CAN-based tools -->
 
