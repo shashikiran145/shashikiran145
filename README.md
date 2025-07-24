@@ -19,7 +19,7 @@ Hi, I'm **Shashi Kiran**, I like building things that connect hardware and softw
 ##  Projects
 - **Mobile Crowdsensing** - Optimization for mobile crowdsensing devices using RL algos
 - **Wave 'n' Speak** – Arduino + ML for audio and visual commands
-- **DPDK-Based Ring Topology** - DPDK packet forwarding in a ring topology using high speed NICs
+- [**DPDK-Based Ring Topology**](https://github.com/shashikiran145/dpdk_project)- DPDK packet forwarding in a ring topology using high speed NICs
 - **MCPC Signal Generation** – modulation techniques
 - **MISO Diversity Analysis** – communication simulations
 - **CMOS-Level Traffic Signal Simulation** – hardware-level design simulation using Cadence
