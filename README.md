@@ -23,9 +23,10 @@ Hi, I'm **Shashi Kiran**, I like building things that connect hardware and softw
 - **MCPC Signal Generation** – modulation techniques
 - **MISO Diversity Analysis** – communication simulations
 - **CMOS-Level Traffic Signal Simulation** – hardware-level design simulation using Cadence
+- Radar based human gait recognition using MATLAB
 
 ## Currently working on:
-- Radar based human gait recognition using MATLAB
+- Exploing VoIP and its applications
 - Learning concepts of deep learning for computer vision
 - Exploring applications of AI in automotive and embedded systems
 
